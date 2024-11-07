@@ -28,6 +28,7 @@ silahkan memilih salah satu tefa yang akan dikerjakan di project:
 22. CSS Framework and Library
 23. Tools Stress Test
 24. Platform Meeting Online
+25. Aplikasi Presensi
 
 Pengembangan berbasiskan Component Based Software Engineering dengan menggunakan metode Agile Scrum
 
