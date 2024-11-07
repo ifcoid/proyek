@@ -29,6 +29,25 @@ silahkan memilih salah satu tefa yang akan dikerjakan di project:
 
 Pengembangan berbasiskan Component Based Software Engineering dengan menggunakan metode Agile Scrum
 
+Package / Module / Komponen yang dikembangkan:
+1. at
+2. atdb
+3. atapi
+4. auth
+5. dokped
+6. fpdf
+7. gcallapi
+8. ghapi
+9. ghupload
+10. hub
+11. normalize
+12. phone
+13. report
+14. tiket
+15. waktu
+16. watoken
+17. whatsauth
+
 ## Proyek 2
 ![image](https://github.com/user-attachments/assets/4afe7444-2c4b-4f1a-906e-0aa6ceba74b8)
 
