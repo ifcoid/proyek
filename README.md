@@ -26,6 +26,7 @@ silahkan memilih salah satu tefa yang akan dikerjakan di project:
 20. Laravel Framework
 21. Rust Framework
 22. CSS Framework and Library
+23. Tools Stress Test
 
 Pengembangan berbasiskan Component Based Software Engineering dengan menggunakan metode Agile Scrum
 
