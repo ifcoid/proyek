@@ -1,4 +1,4 @@
-# Proyek Pengembangan Teaching Factory(Tefa) Informatika
+![image](https://github.com/user-attachments/assets/944e5d46-1204-4c4e-a2e5-0db205e682b0)# Proyek Pengembangan Teaching Factory(Tefa) Informatika
 Team Bimbingan Informatika, Tefa pengembangan aplikasi. 
 Bertujuan untuk membuat portofolio dan pengalaman kerja kepada rekan-rekan yang dibimbing.
 Sehingga bisa mengklaim sudah pengalaman minimal 2 tahun ketika lulus.
@@ -53,6 +53,24 @@ Package / Module / Komponen yang dikembangkan:
 
 ## Proyek 2
 ![image](https://github.com/user-attachments/assets/4afe7444-2c4b-4f1a-906e-0aa6ceba74b8)
+
+1. Crud
+2. Database traksasional
+3. Git bash
+4. UML
+5. Code coverage
+6. Progress bimbingan di videokan
+7. Web base, Framework base, Desktop base
+8. Bimbingan min 8
+
+Luaran :
+Laporan Formal
+Aplikasi 
+Jurnal draf
+
+Dwi & Viola : QR Generator
+Rajif & Indra : TTD Digital sama Presensi
+
 
 ## Proyek 3
 ![image](https://github.com/user-attachments/assets/1e8056b6-14fb-469e-b434-8ff463e538db)
