@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/944e5d46-1204-4c4e-a2e5-0db205e682b0)# Proyek Pengembangan Teaching Factory(Tefa) Informatika
+# Proyek Pengembangan Teaching Factory(Tefa) Informatika
 Team Bimbingan Informatika, Tefa pengembangan aplikasi. 
 Bertujuan untuk membuat portofolio dan pengalaman kerja kepada rekan-rekan yang dibimbing.
 Sehingga bisa mengklaim sudah pengalaman minimal 2 tahun ketika lulus.
