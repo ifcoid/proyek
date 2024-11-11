@@ -56,3 +56,10 @@ Package / Module / Komponen yang dikembangkan:
 
 ## Proyek 3
 ![image](https://github.com/user-attachments/assets/1e8056b6-14fb-469e-b434-8ff463e538db)
+
+## Tugas
+
+Paham dan Menguasai JSCroot:
+1. Buatkan tutorial cara memanggil dan menggunakan semua fungsi fungsi yang ada di jscroot, di post di youtube channel dan website indomy
+2. Coba implementasikan di github pages
+3. Adakan Bootcamp tentang JSCroot.
