@@ -69,7 +69,7 @@ Aplikasi
 Jurnal draf
 
 * Dwi & Viola : QR Generator(Web Based)
-* Rajif & Indra : TTD Digital(Web based) sama Presensi(Chatbot)
+* Rajif & Indra : TTD Digital(Web based)
 
 
 ## Proyek 3
