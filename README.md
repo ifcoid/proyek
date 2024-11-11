@@ -68,8 +68,8 @@ Laporan Formal
 Aplikasi 
 Jurnal draf
 
-Dwi & Viola : QR Generator
-Rajif & Indra : TTD Digital sama Presensi
+* Dwi & Viola : QR Generator(Web Based)
+* Rajif & Indra : TTD Digital(Web based) sama Presensi(Chatbot)
 
 
 ## Proyek 3
